@@ -1,7 +1,7 @@
 # sentry-laravel
 
 Laravel integration for [Sentry](https://sentry.io/).
-
+Sentry helps you get notifications via email, sms, or chat when new errors occur on your application or old ones resurface. Sentry’s real-time error tracking gives you insight into production deployments and information to reproduce and fix crashes.
 
 ## Laravel 5.x
 
